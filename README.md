@@ -13,6 +13,6 @@
 <br>Its styled using CSS and contains a nav bar, image containers, and a form.</p>
 <br>
   <strong>Movie Theater Site</strong>
-  <p>This page is an example home page for a movie theater that is styled using Bootstarp 4.
-   <br> It contains many boostraop components including but not limited too a navbar, a jumbotron, forms, cards, and dropdowns.</p>
+  <p>This page is an example home page for a movie theater that is styled using Bootstrap 4.
+   <br> It contains many boostrap components including but not limited to a navbar, a jumbotron, forms, cards, and dropdowns.</p>
   
