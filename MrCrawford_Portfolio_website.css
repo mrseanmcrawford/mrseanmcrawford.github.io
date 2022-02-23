@@ -89,7 +89,6 @@ h1:hover {
 
  /*Image Elements*/
 img {
-    filter: grayscale(75%);
     border-radius: 8px;
     max-width: 100%;
     height: 100%;
@@ -235,9 +234,10 @@ footer {
      padding-top: 4%;
      position: relative;
      margin:auto;
+
  }
 
- /*Images conatained within the slide show*/
+ /*Images contained within the slide show*/
  .Slideshow_Images {
      vertical-align: middle;
      height: auto;
@@ -325,7 +325,7 @@ footer {
 }
 /****** End Slideshow styling ******/
 
-/****** Table Styling - this section covers the stuling of the coloumns and rows
+/****** Table Styling - this section covers the styling of the columns and rows
 within the table ******/
 
 * { /*The asterisk is a universal selector that applies this effect to all elements on the page */
@@ -333,11 +333,12 @@ box-sizing: border-box;
 }
 
 .Column_1 {
-    float: left; 
+    float: left;
     width: 50%;
     padding: 1.6%;
     height: 450px;
     background-color: white;
+    overflow: auto;
 }
 
 /* The @media rule is used in media queries to apply different style for different media types of devices */
