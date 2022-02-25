@@ -13,7 +13,7 @@ body {
     letter-spacing: .2vw; /* VW is a relative measurment , 1vw is wquak t 1% of the view port width */
     font-family: Avant Garde, Helvetica;
     font-size: 1.5vw;
-    overflow-x: hiden; /* This prevents the horizontal scroll bar from appearing when the quote is hovered over */
+    overflow-x: hidden; /* This prevents the horizontal scroll bar from appearing when the quote is hovered over */
     user-select: none; /* This prevents the text oin the webpage from being highlighted by the user*/
 }
 
@@ -202,7 +202,7 @@ footer {
      background: rgba(0,0,0, 0.5);
      color: white;
      width: 100%;
-     height: 100vw;
+     height: 100vh;
      padding-top: 2vh;
      position: relative;
      -webkit-animation: moveVideoText 5.75s;
